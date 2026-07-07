@@ -58,19 +58,3 @@ Interested in **Vision-Language-Action models**, **robot learning**,
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-## Current Learning Roadmap
-
-```text
-Transformer / LLM Code
-        ↓
-ViT / CLIP / SigLIP
-        ↓
-PaliGemma / VLM Architecture
-        ↓
-OpenVLA / RT-2 / π0
-        ↓
-Embodied AI Research Projects
